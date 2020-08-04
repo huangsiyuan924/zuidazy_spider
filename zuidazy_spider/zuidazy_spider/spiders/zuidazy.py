@@ -101,3 +101,4 @@ class ZuidazySpider(scrapy.Spider):
         item["movie_down_zuidall"] = movie_down_zuidall
         item["movie_down_xunlei"] = movie_down_xunlei
         yield item
+
